@@ -12,6 +12,19 @@
 
 #https://github.com/pilawsk/ScriptProjects
 
+#    ////////////////////////////////////////
+#    //     © 2025 Tk_Bible_Code.py        //
+#    //       All rights reserved          //
+#    ////////////////////////////////////////
+#    //     This material may not be       //
+#    //     reproduced, displayed,         //
+#    //     modified, or distributed       //
+#    //     without the express prior      //
+#    //     written permission of the      //
+#    //         copyright holder.          //
+#    ////////////////////////////////////////
+]]
+
 import tkinter as tk
 from tkinter import ttk
 import requests
